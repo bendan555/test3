@@ -1,0 +1,9 @@
+*.pyc
+*.txt
+.idea/
+data/
+MANIFEST
+build/
+dist/
+mytest20170226.egg-info/
+
